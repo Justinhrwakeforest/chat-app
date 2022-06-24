@@ -1,1 +1,1 @@
-# chat-app.github.io
+# djangochat.github.io
